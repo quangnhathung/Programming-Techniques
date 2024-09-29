@@ -1,0 +1,8 @@
+Quang,Nhat,Hung,9.8
+Ngo,hoang Bao,Han,9.5
+Nguyen,Thi My,Duyen,8.52
+Tran,Quoc,Tai,8.73
+Ho,Hoang,Bao,6.6
+Tran,Kim,Oanh,7.5
+Cu,Hoang Anh,Thu,6.0
+Nguyen,Sinh,Cung,8.6

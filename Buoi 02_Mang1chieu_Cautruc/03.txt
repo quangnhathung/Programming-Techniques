@@ -1,0 +1,21 @@
+Nguyen Van Linh,09487955532,5,3,Ve Binh Dai Ngan Ha,Phong 6,18:00 PM
+Hoang Ngoc Khanh,09121267598,2,0,Avatar,Phong 1,18:00,200
+Le Minh Hoa,09608787678,2,3,Chua Te Nhung Chiec Nhan,Phong 6,1:00 PM
+Le Huu Hoa,09328557905,1,3,Ke Huy Diet,Phong 3,18:00 PM
+Hoang Van Hung,09761399813,2,1,Harry Potter,Phong 2,8:00
+Doan Van Mai,09147851402,5,2,Inception,Phong 9,1:00 AM
+Le Thi Mai,09407616609,5,0,Star Wars,Phong 3,1:00
+Le Duc Khanh,09441740683,5,1,Inception,Phong 8,18:00 PM
+Tran Huu Tuan,09455768092,4,1,Harry Potter,Phong 5,18:00 AM
+Nguyen Thi Hoa,09857865231,3,3,Ma Tran,Phong 9,18:00 PM
+Tran Quang Hoa,09518182008,3,0,Inception,Phong 3,18:00
+Le Huu Hoa,09523470912,4,1,Inception,Phong 2,18:00 PM
+Tran Thi Mai,09935109002,1,0,Star Wars,Phong 8,18:00 PM
+Nguyen Van An,08341318561,2,0,Monkey fck,Phong 0,19:00 PM
+Tran Minh Linh,09185697576,2,1,Star Wars,Phong 10,1:00 
+Hoang Thi Khanh,09770927755,5,2,Star Wars,Phong 4,1:00 
+Doan Van Khanh,09113938903,2,1,Ve Binh Dai Ngan Ha,Phong 2,18:00
+Nguyen Thi Hung,09810723247,1,0,Harry Potter,Phong 10,18:00
+Hoang Thi An,09978092443,5,0,Nguoi Nhen,Phong 4,18:00 PM
+Hoang Huu Hoa,09439500550,5,1,Harry Potter,Phong 7,8:00 AM
+Hoang Van An,09931448933,4,1,Ve Binh Dai Ngan Ha,Phong 2,18:00

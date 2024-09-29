@@ -54,7 +54,7 @@
     <ClCompile Include="bai 13.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Bai 14cpp.cpp">
+    <ClCompile Include="Bai 14.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
