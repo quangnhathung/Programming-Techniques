@@ -210,12 +210,12 @@ void QuickSort(Honso* a, int l, int r) {
 //six
 
 int Six(Honso* pa, Honso x, int n, int l, int r) {
+	QuickSort(pa, 0, n - 1);
 	int pivot = (l + r) / 2;
 	if (l > r) return -1;
 	if (l<r && ssfraction(pa[pivot], x) == 0) return pivot;
 	return Six(pa, x,n, 0, pivot);
 	return Six(pa, x, n, pivot, n - 1);
-
 }
 void sevent(Honso* pa, int n) {
 	int l = 0, r = n - 1;

@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08BF0508-64A8-42A8-BC1F-F573E4E194E1}|Buoi 02_Mang1chieu_Cautruc\\Buoi 02_Mang1chieu_Cautruc.vcxproj|D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\Buoi 02_Mang1chieu_Cautruc\\bai3_ struct_file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08BF0508-64A8-42A8-BC1F-F573E4E194E1}|Buoi 02_Mang1chieu_Cautruc\\Buoi 02_Mang1chieu_Cautruc.vcxproj|solutionrelative:Buoi 02_Mang1chieu_Cautruc\\bai3_ struct_file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08BF0508-64A8-42A8-BC1F-F573E4E194E1}|Buoi 02_Mang1chieu_Cautruc\\Buoi 02_Mang1chieu_Cautruc.vcxproj|D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\Buoi 02_Mang1chieu_Cautruc\\Bai1_mang1C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08BF0508-64A8-42A8-BC1F-F573E4E194E1}|Buoi 02_Mang1chieu_Cautruc\\Buoi 02_Mang1chieu_Cautruc.vcxproj|solutionrelative:Buoi 02_Mang1chieu_Cautruc\\Bai1_mang1C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08BF0508-64A8-42A8-BC1F-F573E4E194E1}|Buoi 02_Mang1chieu_Cautruc\\Buoi 02_Mang1chieu_Cautruc.vcxproj|D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\Buoi 02_Mang1chieu_Cautruc\\bai2_ struct_file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08BF0508-64A8-42A8-BC1F-F573E4E194E1}|Buoi 02_Mang1chieu_Cautruc\\Buoi 02_Mang1chieu_Cautruc.vcxproj|solutionrelative:Buoi 02_Mang1chieu_Cautruc\\bai2_ struct_file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08BF0508-64A8-42A8-BC1F-F573E4E194E1}|Buoi 02_Mang1chieu_Cautruc\\Buoi 02_Mang1chieu_Cautruc.vcxproj|D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\Buoi 02_Mang1chieu_Cautruc\\bai1_ struct_file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08BF0508-64A8-42A8-BC1F-F573E4E194E1}|Buoi 02_Mang1chieu_Cautruc\\Buoi 02_Mang1chieu_Cautruc.vcxproj|solutionrelative:Buoi 02_Mang1chieu_Cautruc\\bai1_ struct_file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E345E7C8-1BC5-404C-89AC-A173599BB0AF}|Buoi03_Mang2chieu\\Buoi03_Mang2chieu.vcxproj|D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\Buoi03_Mang2chieu\\Buoi03_Mang2chieu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E345E7C8-1BC5-404C-89AC-A173599BB0AF}|Buoi03_Mang2chieu\\Buoi03_Mang2chieu.vcxproj|solutionrelative:Buoi03_Mang2chieu\\Buoi03_Mang2chieu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,60 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "bai3_ struct_file.cpp",
-              "DocumentMoniker": "D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\Buoi 02_Mang1chieu_Cautruc\\bai3_ struct_file.cpp",
-              "RelativeDocumentMoniker": "Buoi 02_Mang1chieu_Cautruc\\bai3_ struct_file.cpp",
-              "ToolTip": "D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\Buoi 02_Mang1chieu_Cautruc\\bai3_ struct_file.cpp",
-              "RelativeToolTip": "Buoi 02_Mang1chieu_Cautruc\\bai3_ struct_file.cpp",
-              "ViewState": "AQIAAMoAAAAAAAAAAAAwwNIAAAALAAAA",
+              "Title": "Buoi03_Mang2chieu.cpp",
+              "DocumentMoniker": "D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\Buoi03_Mang2chieu\\Buoi03_Mang2chieu.cpp",
+              "RelativeDocumentMoniker": "Buoi03_Mang2chieu\\Buoi03_Mang2chieu.cpp",
+              "ToolTip": "D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\Buoi03_Mang2chieu\\Buoi03_Mang2chieu.cpp",
+              "RelativeToolTip": "Buoi03_Mang2chieu\\Buoi03_Mang2chieu.cpp",
+              "ViewState": "AQIAAIoBAAAAAAAAAAAqwG8BAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-29T07:35:57.741Z",
+              "WhenOpened": "2024-10-05T14:46:36.789Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "bai2_ struct_file.cpp",
-              "DocumentMoniker": "D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\Buoi 02_Mang1chieu_Cautruc\\bai2_ struct_file.cpp",
-              "RelativeDocumentMoniker": "Buoi 02_Mang1chieu_Cautruc\\bai2_ struct_file.cpp",
-              "ToolTip": "D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\Buoi 02_Mang1chieu_Cautruc\\bai2_ struct_file.cpp",
-              "RelativeToolTip": "Buoi 02_Mang1chieu_Cautruc\\bai2_ struct_file.cpp",
-              "ViewState": "AQIAAMIBAAAAAAAAAAAAwHsBAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-29T07:31:28.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Bai1_mang1C.cpp",
-              "DocumentMoniker": "D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\Buoi 02_Mang1chieu_Cautruc\\Bai1_mang1C.cpp",
-              "RelativeDocumentMoniker": "Buoi 02_Mang1chieu_Cautruc\\Bai1_mang1C.cpp",
-              "ToolTip": "D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\Buoi 02_Mang1chieu_Cautruc\\Bai1_mang1C.cpp",
-              "RelativeToolTip": "Buoi 02_Mang1chieu_Cautruc\\Bai1_mang1C.cpp",
-              "ViewState": "AQIAAOAAAAAAAAAAAIAwwPIAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-29T07:11:03.271Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "bai1_ struct_file.cpp",
-              "DocumentMoniker": "D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\Buoi 02_Mang1chieu_Cautruc\\bai1_ struct_file.cpp",
-              "RelativeDocumentMoniker": "Buoi 02_Mang1chieu_Cautruc\\bai1_ struct_file.cpp",
-              "ToolTip": "D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\Buoi 02_Mang1chieu_Cautruc\\bai1_ struct_file.cpp",
-              "RelativeToolTip": "Buoi 02_Mang1chieu_Cautruc\\bai1_ struct_file.cpp",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAAACgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-29T07:07:30.014Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
