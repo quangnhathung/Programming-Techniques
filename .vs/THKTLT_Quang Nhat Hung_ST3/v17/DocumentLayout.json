@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E345E7C8-1BC5-404C-89AC-A173599BB0AF}|Buoi03_Mang2chieu\\Buoi03_Mang2chieu.vcxproj|D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\Buoi03_Mang2chieu\\Bai01,03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E345E7C8-1BC5-404C-89AC-A173599BB0AF}|Buoi03_Mang2chieu\\Buoi03_Mang2chieu.vcxproj|solutionrelative:Buoi03_Mang2chieu\\Bai01,03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E345E7C8-1BC5-404C-89AC-A173599BB0AF}|Buoi03_Mang2chieu\\Buoi03_Mang2chieu.vcxproj|D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\Buoi03_Mang2chieu\\Bai02,04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E345E7C8-1BC5-404C-89AC-A173599BB0AF}|Buoi03_Mang2chieu\\Buoi03_Mang2chieu.vcxproj|solutionrelative:Buoi03_Mang2chieu\\Bai02,04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "Buoi03_Mang2chieu\\Bai01,03.cpp",
               "ToolTip": "D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\Buoi03_Mang2chieu\\Bai01,03.cpp",
               "RelativeToolTip": "Buoi03_Mang2chieu\\Bai01,03.cpp",
-              "ViewState": "AQIAAMgBAAAAAAAAAAAowNMBAAAQAAAA",
+              "ViewState": "AQIAAB8CAAAAAAAAAAAqwPEBAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-05T14:46:36.789Z",
               "IsPinned": true,
@@ -33,6 +37,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai02,04.cpp",
+              "DocumentMoniker": "D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\Buoi03_Mang2chieu\\Bai02,04.cpp",
+              "RelativeDocumentMoniker": "Buoi03_Mang2chieu\\Bai02,04.cpp",
+              "ToolTip": "D:\\pin\\K\u1EF9 Thu\u1EADt l\u1EADp tr\u00ECnh\\Th\u1EF1c h\u00E0nh\\THKTLT_Quang Nhat Hung_ST3\\Buoi03_Mang2chieu\\Bai02,04.cpp",
+              "RelativeToolTip": "Buoi03_Mang2chieu\\Bai02,04.cpp",
+              "ViewState": "AQIAANEAAAAAAAAAAADwv9sAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T05:24:33.271Z",
+              "EditorCaption": ""
             }
           ]
         }

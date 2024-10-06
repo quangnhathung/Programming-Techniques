@@ -1,0 +1,3 @@
+﻿  Bai02,04.cpp
+D:\pin\Kỹ Thuật lập trình\Thực hành\THKTLT_Quang Nhat Hung_ST3\Buoi03_Mang2chieu\Bai02,04.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Buoi03_Mang2chieu.vcxproj -> D:\pin\Kỹ Thuật lập trình\Thực hành\THKTLT_Quang Nhat Hung_ST3\Debug\Buoi03_Mang2chieu.exe
