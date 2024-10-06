@@ -8,6 +8,7 @@
 #include<iomanip>
 #include<vector>
 #include<map>
+#include<tuple>
 using namespace std;
 int** Crreate(int n, int m) {
 	int** pa = new int* [n];
@@ -28,16 +29,20 @@ void printArr(int** pa, int n, int m) {
 		cout << endl << endl;
 	}
 }
-void printSide(int** pa, int n, int m) {
+int printSide(int** pa, int n, int m) {
+	int max = -999;
 	for (int i = 0; i < n; i++) {
 		for (int j = 0; j < m; j++) {
-			if (i == 0 || j == 0 || i == n - 1 || j == m - 1)
+			if (i == 0 || j == 0 || i == n - 1 || j == m - 1) {
 				cout << setw(03) << right << pa[i][j] << " ";
+				if (pa[i][j] > max) max = pa[i][j];
+			}
 			else
 				cout << setw(04) << right << " ";
 		}
 		cout << endl << endl;
 	}
+	return max;
 }
 struct pos {
 	int row;
@@ -483,6 +488,71 @@ void DecendingRow(int* a, int m) {
 		}
 	}
 }
+//gia tri xuat hien nhieu nhat trong ma tran
+//dung map
+struct dou {
+	int cnt = 0;
+	int first[100];
+	int second;
+};
+dou FreqMax(int** pa, int n, int m) {
+	dou Element;
+	map<int, int> freq;
+	for (int i = 0; i < n; i++) {
+		for (int j = 0; j < m; j++) {
+			freq[pa[i][j]]++;
+		}
+	}
+	Element.second = -1;
+	for (auto it : freq) {
+		if (it.second >= Element.second) {
+			if (it.second == Element.second) {
+				Element.first[Element.cnt] = it.first;
+				Element.second = it.second;
+				Element.cnt++;
+			}
+			else {
+				Element.cnt = 1;
+				Element.first[0] = it.first;
+				Element.second = it.second;
+				//Element.cnt++;
+			}
+		}
+	}
+	return Element;
+}
+//num
+dou FreqMaxNum(int** pa, int n, int m) {
+	dou Element;
+	map<int, int> freq;
+	for (int i = 0; i < n; i++) {
+		for (int j = 0; j < m; j++) {
+			int temp = pa[i][j];
+			if (temp < 0) temp *= -1;
+			while (temp) {
+				freq[temp % 10]++;
+				temp /= 10;
+			}
+		}
+	}
+	Element.second = -1;
+	for (auto it : freq) {
+		if (it.second >= Element.second) {
+			if (it.second == Element.second) {
+				Element.first[Element.cnt] = it.first;
+				Element.second = it.second;
+				Element.cnt++;
+			}
+			else {
+				Element.cnt = 1;
+				Element.first[0] = it.first;
+				Element.second = it.second;
+				//Element.cnt++;
+			}
+		}
+	}
+	return Element;
+}
 void menu() {
 	cout << "                     Menu                  " << endl;
 	cout << "*******************************************" << endl;
@@ -494,12 +564,27 @@ void menu() {
 	cout << "4. Xuat yen ngua" << endl;
 	cout << "5. Xuat dong chi chua so chan" << endl;
 	cout << "6. Sap tang theo tung dong" << endl;
+	//**********
+	cout << "7. Phan tu lon nhat bien." << endl;
+	cout << "8. Phan tu cuc tieu cua ma tran" << endl;
+	cout << "9. kiem tra ziczac" << endl;
+	cout << "10. Gia tri xuat hien nhieu nhat trong ma tran" << endl;
+	cout << "11. Chu so xuat hien nhieu nhat trong ma tran" << endl;
+	cout << "12. Hoan vi 2 cot bat ki" << endl;
 	cout << "********************************************" << endl;
 	cout << "\tOPTION: ";
 }
+//hoan vi
+void num12(int**& pa, int n, int m, int c, int v) {
+	for (int i = 0; i < n; i++) {
+		int temp = pa[i][c];
+		pa[i][c] = pa[i][v];
+		pa[i][v] = pa[i][c];
+	}
+}
 int main() {
 	int m, n;
-	cout << "Nhap so hang va cot: " ;
+	cout << "Nhap so hang va cot: ";
 	cin >> n >> m;
 	int** pa = Crreate(n, m);
 	//printArr(pa, n, m);
@@ -594,7 +679,7 @@ int main() {
 					cout << endl;
 				}
 			}
-			if (x == 0) cout << "Khong hang nao thoa dk!"<<endl;
+			if (x == 0) cout << "Khong hang nao thoa dk!" << endl;
 			system("pause");
 			system("cls");
 			break;
@@ -603,7 +688,55 @@ int main() {
 			for (int i = 0; i < n; i++) {
 				AscendingRow(pa[i], m);
 			}
-			cout << "Done!"<<endl;
+			cout << "Done!" << endl;
+			system("pause");
+			system("cls");
+			break;
+		}
+		case 7: {
+			cout << "Phan tu lon nhat la: " << printSide(pa, n, m) << endl;
+			system("pause");
+			system("cls");
+			break;
+		}
+		case 8: {
+			MinimumElement(pa, n, m);
+			system("pause");
+			system("cls");
+			break;
+		}
+		case 9: {
+			cout << "Khong phai!" << endl;//=))
+			system("pause");
+			system("cls");
+			break;
+		}
+		case 10: {
+			dou element = FreqMax(pa, n, m);
+			cout << "Cac phan tu xuat hien nhieu nhat: ";
+			for (int i = 0; i < element.cnt; i++)
+				cout << element.first[i] << " ";
+			cout << "xuat hien " << element.second << " lan." << endl;
+			system("pause");
+			system("cls");
+			break;
+		}
+		case 11: {
+			dou element = FreqMaxNum(pa, n, m);
+			cout << "Cac chu so xuat hien nhieu nhat: ";
+			for (int i = 0; i < element.cnt; i++)
+				cout << element.first[i] << " ";
+			cout << "xuat hien " << element.second << " lan." << endl;
+			system("pause");
+			system("cls");
+			break;
+		}
+		case 12: {
+			int c, v;
+			cout << "nhap 2 cot can hoan vi: "; cin >> c >> v;
+			num12(pa, n, m, c - 1, v - 1);
+			printArr(pa, n, m);
+			cout << endl;
 			system("pause");
 			system("cls");
 			break;
